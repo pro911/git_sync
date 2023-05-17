@@ -1,0 +1,8 @@
+git:
+  cron: "*/1 * * * *"
+  dir: "D:/wwwroot/private/sync-folder"
+  email: "pro911@qq.com"
+  name: "pro911"
+  address: "git@github.com:pro911/sync-folder.git"
+  commit: "Auto-commit from Go 2"
+  branch: "main"
